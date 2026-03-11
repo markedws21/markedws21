@@ -8,12 +8,12 @@
 
 ### 👨‍💻 Sobre mí
 
-<ul>
-  <li>📱 Actualmente desarrollando aplicaciones móviles usando <b>Flutter</b>.</li>
-  <li>🛠️ Tengo experiencia trabajando con bases de datos locales como <b>SQLite</b>.</li>
-  <li>🧠 Me interesan las matemáticas, las estructuras de datos y los algoritmos.</li>
-  <li>🚀 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.</li>
-</ul>
+Desarrollador de aplicaciones móviles apasionado por crear experiencias de usuario impecables y arquitecturas escalables. 
+
+- 🚀 Construyendo aplicaciones con **Flutter** y **Kotlin**.
+- 🗄️ Diseñando bases de datos sólidas con **SQL Server** y **SQLite**.
+- 📈 Resolviendo problemas mediante algoritmos, análisis de datos y lógica matemática.
+- 🌱 Actualmente construyendo soluciones para el sector de eventos y sistemas de auditoría.
 
 <br>
 
