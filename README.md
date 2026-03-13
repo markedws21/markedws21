@@ -33,8 +33,8 @@ Desarrollador de aplicaciones móviles apasionado por crear experiencias de usua
 ### 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de Mark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="Racha de Mark" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=markedws21&show_icons=true&theme=radical" alt="Estadísticas de Mark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markedws21&theme=radical" alt="Racha de Mark" width="400">
 </div>
 
 <br>
